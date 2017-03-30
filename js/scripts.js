@@ -14,6 +14,8 @@ $(function(){
     });
   });
 
+alert('test');
+
   $('#elastislide').elastislide();
 
 });
