@@ -14,8 +14,8 @@ $(function(){
     });
   });
 
-alert('test');
-alert('test');
+alert('test branch 2');
+alert('test branch 2');
 
   $('#elastislide').elastislide();
 
