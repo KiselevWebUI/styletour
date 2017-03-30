@@ -15,6 +15,7 @@ $(function(){
   });
 
 alert('test');
+alert('test');
 
   $('#elastislide').elastislide();
 
